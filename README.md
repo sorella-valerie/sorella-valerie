@@ -29,7 +29,7 @@ I turn scattered data and repetitive work into clear dashboards, reliable workfl
 | Newcomer settlement | Which Canadian cities best match a household and occupation scenario? | [Open dashboard](https://canada-newcomer-settlement.streamlit.app/) |
 | Food affordability | Which products and provinces are driving grocery pressure? | [Open dashboard](https://canada-food-affordability.streamlit.app/) |
 | Nonprofit sustainability | How do funding, expenses and reserves affect financial runway? | [Open dashboard](https://nonprofit-sustainability.streamlit.app/) |
-| Global cost and opportunity | Which countries align with a selected relocation priority? | [Open dashboard](https://global-cost-opportunity.streamlit.app/) |
+| World Bank country indicators | How do countries compare on official GDP per capita, unemployment, inflation and health expenditure indicators? | [Open dashboard](https://global-cost-opportunity.streamlit.app/) |
 
 The portfolio uses official public data where available. Derived scores and planning scenarios are clearly labelled and separated from official indicators.
 
@@ -40,4 +40,3 @@ The portfolio uses official public data where available. Derived scores and plan
 ## Work with me
 
 I help small businesses, nonprofits and growing teams turn operational questions into useful systems. Visit [Rellatech.io](https://rellatech.io) or explore the [complete live portfolio](https://rellatech-decision-intelligence.streamlit.app/).
-
